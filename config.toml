@@ -1,6 +1,6 @@
-baseURL = "https://okfn.de"
+baseURL = "https://turing-bus.de"
 languageCode = "de-DE"
-title = "OKF"
+title = "Turing-Bus"
 defaultContentLanguage = "de"
 enableRobotsTXT = true
 
@@ -24,7 +24,7 @@ weight =  80
     name = 'tags'
     weight = 60
 
-[mediaTypes]        
+[mediaTypes]
   [mediaTypes."application/atom"]
     suffixes = ["xml"]
   [mediaTypes."application/json"]
@@ -46,14 +46,14 @@ weight =  80
 [languages]
   [languages.de]
     title = "OKF"
-    languageName = "DE" 
+    languageName = "DE"
     weight = 1
   [languages.en]
     title = "OKF DE"
     languageName = "EN"
     weight = 2
-    
-  
+
+
 [outputs]
 home = ["HTML", "Json"]
 section = [ "HTML", "Atom", "Json", "Rss" ]

@@ -1,9 +1,11 @@
 ---
-title: OKF
-blurb:  Offenes Wissen für die digitale Zivilgesellschaft
-work: Wir setzen uns für offenes Wissen und demokratische Teilhabe ein. Dafür entwickeln wir Technologien und Instrumente und stärken so die Zivilgesellschaft.
-donate_title: Unterstütze jetzt offenes Wissen!
-donate_text: Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht kommerziell. Mit einer Spende unterstützt Du uns und unsere Community.
+title: Turing-Bus
+blurb:  Mit dem Turing-Bus auf den Spuren künstlicher Intelligenz
+work: Der Turing-Bus ist ein mobiles Bildungsprojekt im Wissenschaftsjahr 2019.  In Workshops, Diskussionen und Exkursionen können sich 15-bis 19-jährige Schüler*innen kritisch mit dem Thema KI und Maschinenlernen auseinandersetzen.
+donate_title: Kontaktieren Sie uns!
+donate_text: 'Der Turing-Bus versucht, auf seiner Tour Akteur*innen zu involvieren, die thematischen Input liefern und den teilnehmenden Schüler*innen inhaltliche und kritische Herangehensweisen vermitteln. Aktuell läuft die Stationenplanung für dieses Jahr.'
 meta: Open Knowledge Foundation Deutschland e.V.
 img_header: /okf/start-social-og.png
+# test ab hier
+background-image: /files/projects/2030_Projektuebersicht_smallTile.png
 ---
