@@ -14,15 +14,19 @@ betterplace_text:
 box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, haben wir die wichtigsten Transparenzinfos zusammengetragen
 box_link_name: Hier geht's zur Transparenzseite
 metainfo_name: "Wissenswertes zu Deiner Spende"
-metainfo_text: "Mit unserem aktuellen <a href='/files/documents/Freistellungsbescheid-2018-04-20.pdf'>Freistellungsbescheid</a> sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem <a href='/files/documents/06_Zuwendungsnachweis.pdf'>Vereinfachten Zuwendungsnachweis.</a>"
+metainfo_text: "Künstliche Intelligenz (KI) – das sind Computersysteme, Maschinen und Roboter, die selbstständig lernen können. Diese intelligenten Systeme spielen schon heute in vielen Bereichen unseres Lebens eine wichtige Rolle."
 ---
 
-### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten.
+### Künstliche Intelligenz: Gestalten Sie die Zukunft aktiv mit!
 
-Mit unserem [aktuellen Freistellungsbescheid](/files/documents/Freistellungsbescheid_2018-12-13.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis](/files/documents/OKF_vereinfachte_Zuwendungsbest.pdf).
+Künstliche Intelligenz (KI) – das sind **Computersysteme, Maschinen und Roboter,** die selbstständig lernen können. Diese intelligenten Systeme spielen schon heute in vielen Bereichen unseres Lebens eine wichtige Rolle.  
 
-Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
+**Künstliche Intelligenz ist auch das Thema des Wissenschaftsjahres 2019**. Am Wissenschaftsjahr 2019 werden sich Institutionen, Bildungseinrichtungen, Hochschulen und Unternehmen mit ihrer Forschungskompetenz beteiligen. In Filmvorführungen, Diskussionsrunden, **Mitmach-Aktionen** und vielen weiteren **Veranstaltungen** stehen Themen im Fokus, die uns alle angehen: Wie funktioniert Künstliche Intelligenz? Wie gestalten wir in Zukunft die Zusammenarbeit von Mensch und Maschine? Welche ethischen Fragen ergeben sich? Welche Auswirkungen hat Künstliche Intelligenz auf unser Zusammenleben als Gesellschaft? Auf welche Weise bilde ich mich für den **digitalisierten Arbeitsmarkt **von morgen weiter?
 
-* politische Kampagnenarbeit im Interesse der Zivilgesellschaft
-* Projekte zu freiem Wissen und digitaler Mündigkeit
-* die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
+Das sind nur einige der Fragen, die wir im Wissenschaftsjahr 2019 stellen wollen. Es lohnt, sich mit diesen Aspekten zu beschäftigen. Denn Künstliche Intelligenz ist die wohl spannendste Zukunftstechnologie unserer Zeit.
+
+Sie birgt **viele Chancen**, unser Zusammenleben auf sozialer, politischer und wirtschaftlicher Ebene voranzubringen. Zum Beispiel können programmierte **Roboter** Menschen körperlich schwere oder eintönige Arbeiten abnehmen. In der **Medizin** gelingt es modernen Computern in kurzer Zeit, große Mengen an medizinischen Daten auszuwerten. Dadurch ist es heute schneller möglich, Therapien gegen Krankheiten zu entwickeln. Intelligente **Verkehrskonzepte** wiederum tragen mit dazu bei, dass die Luft in unseren Städten sauberer wird. Künstliche Intelligenz sorgt außerdem dafür, dass **Strom** aus Wind, Sonne und Wasser immer besser gespeichert werden kann.
+
+Sie alle sind herzlich eingeladen, mit Wissenschaft und Forschung über diese Themen und über die Gestaltung unserer Zukunft zu diskutieren.
+
+**Nutzen Sie die Chance, bringen Sie sich ein und erfahren Sie mehr über Künstliche Intelligenz.**

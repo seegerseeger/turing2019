@@ -53,11 +53,11 @@
 - id: topics_projects
   translation: "Verwandte Projekte"
 - id: itz_text
-  translation: "Wir sind Unterzeichner der Initiative Transparente Zivilgesellschaft. Außerdem haben wir das Wirkt-Siegel von Phineo erhalten. Damit wurde der gesellschaftliche Nutzen unserer Projekte bestätigt und die ordnungsgemäße Verwendung unserer Spenden überprüft."
+  translation: "Der Turing-Bus ist ein Verbundprojekt der Open Knowledge Foundation Deutschland e.V. und der Gesellschaft für Informatik e.V. im Wissenschaftsjahr 2019 - Künstliche Intelligenz. Das Projekt wird zu 100% durch das Bundesministerium für Bildung und Forschung gefördert."
 - id: itz_link
-  translation: "Zu allen Transparenzinfos"
+  translation: "Zur Webseite des Wissenschaftsjahres"
 - id: itz_alt
-  translation: "Logo Initiative Transparente Zivilgesellschaft"
+  translation: "Logo Wissenschaftsjahr"
 - id: newsletter_text
   translation: "Unser monatlicher Newsletter informiert über Neuigkeiten aus unseren Projekten, der Organisation und von Veranstaltungen, auf denen wir zu treffen sind!"
 - id: phineo_alt

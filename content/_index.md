@@ -7,5 +7,5 @@ donate_text: 'Der Turing-Bus versucht, auf seiner Tour Akteur*innen zu involvier
 meta: Open Knowledge Foundation Deutschland e.V.
 img_header: /okf/start-social-og.png
 # test ab hier
-background-image: /files/projects/2030_Projektuebersicht_smallTile.png
+background-image: /okf/verein/verein_intro_2.jpg
 ---
