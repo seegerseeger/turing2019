@@ -43,15 +43,7 @@ weight =  80
     mediaType = "application/json"
     baseName = "index"
 
-[languages]
-  [languages.de]
-    title = "OKF"
-    languageName = "DE"
-    weight = 1
-  [languages.en]
-    title = "OKF DE"
-    languageName = "EN"
-    weight = 2
+
 
 
 [outputs]
