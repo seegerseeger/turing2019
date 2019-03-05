@@ -25,15 +25,15 @@
 {{ end }}
 
 {{ define "main" }}
+
+
+{{ partial "hero-image-setheight.html" (dict "background" .Params.image.src "heading" .Params.title "subheading" .Params.heroSubHeading "content" .)}}
+
 <main>
   <article class="c__post--single">
-    <div class="container c__post__title">
-      <div class="row">
-        <h1 class="col col-12 col-md-10 col-lg-10">{{ .Title }}</h1>
-      </div>
-    </div>
 
-    {{ if (isset .Params "featured") }}
+
+<!--    {{ if (isset .Params "featured") }}
     <div class="container c__post__visual c__post__bg--{{.Params.featured}}">
       <div class="row">
         <div class="col col-md-6 offset-md-3 c__post__image">
@@ -49,7 +49,7 @@
         </div>
       </div>
     </div>
-    {{ end }}
+    {{ end }}-->
 
     <div class="container">
       <div class="row">

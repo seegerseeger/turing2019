@@ -1,8 +1,9 @@
 ---
+title: "Das Handelsregister: Endlich offene Daten!"
+date: 2019-03-05
 authors:
 - Stefan Wehrmeyer
 - Arne Semsrott
-date: 2019-02-06
 image:
   src: /files/blog/2019/speicherstadt.jpg
   title: "Hamburg. Speicherstadt"
@@ -14,8 +15,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "Das Handelsregister: Endlich offene Daten!"
-featured: yellow
+featured: blue
 ---
 
 Gemeinsam mit der Organisation [OpenCorporates](https://opencorporates.com/) veröffentlichen wir heute auf [OffeneRegister.de](https://offeneregister.de/) Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.

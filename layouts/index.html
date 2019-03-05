@@ -14,7 +14,10 @@
 {{ end }}
 
 {{ define "main" }}
+
+{{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 <main>
+  <!--
   <div class="l__home">
     <div class="container mb-d">
       <div class="row">
@@ -48,7 +51,7 @@
         </div>
       </div>
     </div>
-
+-->
         <section class="container mt-l mb-l">
           <div class="row justify-between">
             <div class="col col-10 mb-s">

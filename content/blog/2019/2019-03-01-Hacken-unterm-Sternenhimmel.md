@@ -3,7 +3,7 @@ authors:
 - Bela Seeger
 date: 2019-03-01
 image:
-  src: /files/blog/2019/rollup-offenedatenfueralle.png
+  src: /files/blog/2019/planetarium_6039.jpg
   title: Abschlussveranstaltung Turing-Bus - Hacken unterm Sternenhimmel
 tags:
 - TuringBus
