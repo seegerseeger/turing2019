@@ -3,10 +3,14 @@
   line-height: 2
   font-weight: 500
   list-style: none
+  font-family: Roboto
+  text-transform: uppercase
+
+
   a,
   .fake-link
     padding: .2em 0
-    color: $white
+    color: $wj-grey
     text-decoration: none
     padding-bottom: 1px
     border-bottom: 2px solid transparent
@@ -30,12 +34,15 @@
   @include media-breakpoint-up(md)
     display: flex
     flex-direction: row
-    justify-content: space-between
+    justify-content: space-around
+
+/*  was space-between before
 
 .c__nav-list--social
   display: flex
   flex-wrap: wrap
   justify-content: space-between
+  color: $white
 
 
 .c__nav-list--top

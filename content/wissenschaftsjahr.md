@@ -1,5 +1,5 @@
 ---
-title:
+title: Wissenschaftsjahr
 blurb: Wissenschaftsjahr 2019
 meta: OKF DE unterstützen. Spenden via Überweisung, Betterplace, Paypal
 layout: donation

@@ -9,11 +9,10 @@ Singerstr. 109<br>
 10179 Berlin</br>
 Deutschland
 
-**E-Mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
+**E-Mail:** info@turing-bus.de
 **Telefon:** +49 30 57 70 36 660<br>
 **Fax:** +49 30 57 70 36 669
 
-[OpenStreetMap](https://www.openstreetmap.org/way/29386807) - [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
 
 
 **Vereinsregister Nr:** VR 30468 B<br>
@@ -45,7 +44,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 <div id="datenschutzerklaerung"></div>
 ## Datenschutzerklärung
 
-Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://okfn.de/ und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend „okfn.de“ oder die „Website“).
+Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://turing-bus.de/ und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend "turing-bus.de“ oder die „Website“).
 
 Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche Daten in welcher Form verarbeitet werden, wenn Sie unsere Website besuchen. Hiermit kommen wir zugleich unserer Informationspflicht gem. Art. 13 Datenschutz-Grundverordnung (DS-GVO) Ihnen gegenüber nach.
 
@@ -58,7 +57,7 @@ Singerstr. 109
 10179 Berlin
 Deutschland
 
-E-Mail: info@okfn.de<br>
+E-Mail: info@turing-bus.de<br>
 Telefon: +49 30 57703666 0<br>
 Fax: +49 30 57703666 9<br>
 
@@ -70,7 +69,7 @@ Singerstr. 109<br>
 10179 Berlin<br>
 Deutschland<br>
 <br>
-datenschutz@okfn.de [<a href="/okf/datenschutz_okfn_de_pub.asc">OpenPGP</a>]
+datenschutz@okfn.de
 
 Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der Rechtsanwaltskanzlei https://kanzlei-hubrig.de/
 
@@ -166,6 +165,6 @@ Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 
 
 ### IX. Wenn Sie Anmerkungen oder Fragen haben
 
-Wir treffen alle erdenklichen Vorkehrungen zum Schutz und zur Sicherheit Ihrer Daten. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie einfach eine Mail an info@okfn.de.
+Wir treffen alle erdenklichen Vorkehrungen zum Schutz und zur Sicherheit Ihrer Daten. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie einfach eine Mail an info@turing-bus.de.
 
 Berlin, April 2018

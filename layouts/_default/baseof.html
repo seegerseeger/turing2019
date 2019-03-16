@@ -7,14 +7,13 @@
   </head>
   <body class="no-js">
     {{- partial "header.html" . -}}
-    {{- partial "site-search" . -}}
     <main id="content" name="content">
       <div class="">
         {{- block "main" . }}{{- end }}
+        {{- partial "subfooter.html" . -}}
       </div>
     </main>
     {{- partial "footer.html" . -}}
     {{- partial "matomo.html" . -}}
-    {{- partial "subfooter.html" . -}}
   </body>
 </html>

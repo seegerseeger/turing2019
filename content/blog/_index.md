@@ -1,7 +1,7 @@
 ---
-title: Blog
-blurb: News aus dem OKF-Büro
+title: '[B]logbuch'
+blurb: News vom Turing-Bus
 layout: blog
-meta: OKF News
+meta: Turing-Bus News
 img_header: /okf/blog-social-og.png
 ---
