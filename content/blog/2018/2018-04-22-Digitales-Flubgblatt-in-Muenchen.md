@@ -1,5 +1,6 @@
 ---
 title: "Aller Anfang ist schwer. Das digitale Flugblatt in München"
+subtitle: "Turing-Bus Station #1 am 20. April 2018 auf dem DevCamp der GI, Hochschule für Angewandte Wissenschaften München (Bayern) mit 11 Student*innen (18-25 Jahre)"
 date: 2018-04-22
 authors:
 - Frithjof Nagel

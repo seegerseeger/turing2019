@@ -20,7 +20,7 @@ parallax1: '/okf/profil/profil_teaser_2.jpg'
 
 ---
 
-Der Turing-Bus ist ein mobiles Bildungsangebot der **[Open Knowledge Foundation Deutschland](https://okfn.de)** und der **[Gesellschaft für Informatik](https://gi.de)** im Wissenschaftsjahr 2019 - Künstliche Intelligenz und wird gefördert durch das **[Bundesministerium für Bildung und Forschung](https://bmbf.de)**.
+Der Turing-Bus ist ein mobiles Bildungsangebot der **[Open Knowledge Foundation Deutschland](https://okfn.de)** und der **[Gesellschaft für Informatik](https://gi.de)** im **[Wissenschaftsjahr 2019 - Künstliche Intelligenz](/wissenschaftsjahr)** und wird gefördert durch das **[Bundesministerium für Bildung und Forschung](https://bmbf.de)**.
 
 
 <!--more-->

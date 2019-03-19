@@ -1,6 +1,6 @@
 ---
 title: "Blogtitel"
-date: 2018-02-01
+date: 2022-02-01
 authors:
 - Bela Seeger
 - Andrea Knaut
@@ -20,6 +20,9 @@ card: true
 published: true
 featured: blue
 ---
+
+![Test](/files/blog/2018/turing-bus-in-bernau_41407107815_o-lowres.jpg)
+Foto: <a href="https://www.flickr.com/photos/max-stolbinsky/36174159450/">Hamburg. Speicherstadt</a> von <a href="https://www.flickr.com/photos/max-stolbinsky/">Max Stolbinsky</a> under <a href="https://creativecommons.org/licenses/by/2.0/">CC By 2.0</a>
 
 Aller Anfang ist schwer – vor allem, weil er viele Fragen aufwirft. Zum Beispiel, ob wir für alle Tour-Stationen des Turing-Busses genügend externe Dozentinnen und Dozenten finden würden, die mit uns die weißen Flecken der digitalen Deutschlandkarte bereisen. Um auf Nummer sicher zu gehen, entschieden wir uns dafür, auch selbst einen Workshop zu konzipieren. Ein Unterfangen, das in Anbetracht unseres Zeitbudgets retrospektiv irgendwo zwischen überambitioniert und wahnwitzig eingeordnet werden kann. Der Initiator des Turing-Bus-Projekts, Stefan Ullrich, hatte uns einen vielversprechenden Hinweis auf **[den c't-Artikel von Daniel Cooper zum Bau eines digitalen Flugblatts](https://www.heise.de/ct/ausgabe/2017-22-Digitales-Flugblatt-Raspberry-Pi-mit-Batterie-als-anonymer-WLAN-Hotspot-und-Webserver-3851689.html)** gegeben. Dort wird beschrieben, wie man mithilfe eines batteriebetriebenen Raspberry Pi Zero W einen anonymen WLAN-Hotspot mit Webserver einrichten kann.
 

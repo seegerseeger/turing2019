@@ -41,7 +41,9 @@
     @include media-breakpoint-down(md)
       margin-top: $space-m
 
-.c__post__image,
+.c__post__image
+  img
+    width: 100%
 .c__post__image--regular
   img
     width: 100%
@@ -92,6 +94,9 @@
 
 // Styles specific for blog posts
 .c__post--single
+img
+  width: 100%
+  height: auto
   .c__post__title
     margin-bottom: $space-double
   .c__post__image
