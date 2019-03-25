@@ -45,11 +45,11 @@
   <section class="l__verein--grey">
     <div class="container l__verein">
       <div class="row">
-        {{ with .Site.GetPage "/vorstand"}}
+        {{ with .Site.GetPage "/module"}}
         <div class="l__verein__board col col-12 col-md-6 mb-d">
           <h2 class="mb-s">{{ .Params.blurb }}</h2>
           <p>{{ .Content }}</p>
-          <p><a href="{{ .Permalink}}">Details zu den Mitgliedern</a></p>
+          <p><a href="{{ .Permalink}}">Details zu den Modulen</a></p>
         </div>
         {{ end }}
         {{ $lang := .Page.Lang }}
@@ -68,7 +68,7 @@
       </div>
     </div>
   </section>
-
+<!--
   {{ with .Site.GetPage "/jahresberichte"}}
   <section class="l__verein container">
     <div class="row">
@@ -111,5 +111,6 @@
   <section class="l__verein container mt-l">
     {{- partial "downloads/verein" . -}}
   </section>
+-->
 </main>
 {{ end }}

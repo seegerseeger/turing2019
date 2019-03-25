@@ -55,11 +55,11 @@
 - id: itz_text
   translation: "Der Turing-Bus ist ein Verbundprojekt der Open Knowledge Foundation Deutschland e.V. und der Gesellschaft für Informatik e.V. im Wissenschaftsjahr 2019 - Künstliche Intelligenz. Das Projekt wird zu 100% durch das Bundesministerium für Bildung und Forschung gefördert."
 - id: itz_link
-  translation: "Zur Webseite des Wissenschaftsjahres"
+  translation: "→ Zur Webseite des Wissenschaftsjahres"
 - id: itz_alt
   translation: "Logo Wissenschaftsjahr"
 - id: newsletter_text
-  translation: "Unser bi-monatlicher Newsletter informiert über Stationen, Veranstaltungen und Neuigkeiten!"
+  translation: "Unser Newsletter informiert über Stationen, Veranstaltungen und Neuigkeiten!"
 - id: phineo_alt
   translation: "Logo Phineo Analyse- und Beratungshaus"
 - id: phineo_text

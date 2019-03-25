@@ -27,9 +27,7 @@ Im Rahmen der Demokratietage besuchten wir die [Nudelstadt](https://www.teigware
 
 Der Tag in Riesa begann mit einem Impulsvortrag von Robert, in der er über die Entstehungsgeschichte, die Arbeit und die Inhalte des [Chaos Computer Clubs](https://www.ccc.de/), der [Erfa-Kreise,](https://www.ccc.de/en/club/erfas) [Chaos macht Schule](http://chaosmachtschule.de/) sowie seiner Arbeit im [OK-Lab Dresden](https://codefor.de/dresden/) berichtete. Die Präsentation von Robert Wartenberg und Benjamin Partzsch gibt es beim Klick auf die erste Slide:
 
-![Turing-Bus in Riesa](/files/blog/2018/slidesx_Page_01.png)
-Foto: <a href="https://creativecommons.org/choose/zero/?lang=de">CC-0</a>
-
+<a href="https://github.com/c3d2/cms/raw/master/2018_06_26_turingbus_riesa/out/slides.pdf"><img  src="/files/blog/2018/slidesx_Page_01.png"></a>
 
 Der dann folgende Workshopteil war zweigeteilt. Die Schülerinnen und Schüler konnten zwischen dem digitalen Flugblatt und einem kreativen Arduino-Workshop wählen. Letzterer wurde von Maximilian Voigt (Fablab Cottbus), Sven Kallet (Science on Tour), Robert Wartenberg und Benjamin Partzsch (C3D2, OK-Lab Dresden) geleitet und unterstützt.
 

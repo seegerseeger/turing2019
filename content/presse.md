@@ -1,5 +1,5 @@
 ---
-title: Presse
+title: 'Presse' 
 meta: OKF DE Pressekontakt, Presseverteiler, Logos, Bilder
 ---
 

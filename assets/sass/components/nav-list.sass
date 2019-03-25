@@ -40,9 +40,27 @@
 
 .c__nav-list--social
   display: flex
+  color: $wj-lila
   flex-wrap: wrap
+  flex-direction: row
   justify-content: space-between
-  color: $white
+  a,
+  .fake-link
+    padding: .2em 0
+    color: $white
+    text-decoration: none
+    padding-bottom: 1px
+    border-bottom: 2px solid transparent
+    transition: all 100ms ease-in-out
+    &:hover,
+    &:active
+      color: $wj-pink
+      svg
+        fill: $anchor
+  svg
+    width: 1.3rem
+    height: 1.3rem
+
 
 
 .c__nav-list--top
